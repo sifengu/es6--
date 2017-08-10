@@ -3,10 +3,9 @@ ES6的学习与实践
 ______
 
 
-构建工具：webpack（模块化，项目依赖），bable（es6编译成es5），gulp（任务自动化），npm编译成浏览器可识别   
+构建工具：webpack，gulp
 ___
  
-babel-polyfill      es6兼容性 
  
  目录结构
  ------
