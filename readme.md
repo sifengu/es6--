@@ -36,12 +36,12 @@ ___
 >>>>decorator.js   
    
 >>>/lottery                项目目录   
->>>>timer.js            定时器模块   
->>>>calculate.js        计算模块   
->>>>interface.js        接口模块   
->>>>base.js             基本模块   
->>>>index.js                入口文件   
->>>>lottery.js              项目整合模块   
+>>>>timer.js            
+>>>>calculate.js        
+>>>>interface.js        
+>>>>base.js             
+>>>>index.js                 
+>>>>lottery.js               
           
 >>index.js                    入口文件   
 
@@ -62,12 +62,7 @@ ___
 >>build.js                    串联这些工具脚本   
 >>default.js                  当命令行gulp 不带参数时默认调用   
    
-package.json                    项目依赖    npm init   
-.babelrc                        设置Babel配置文件   
-gulpfile.babel.js               gulp配置文件    gulp启动时调用这个文件（入口文件）  
+package.json                    
+.babelrc                        
+gulpfile.babel.js              
 
-启动命令
-----
-gulp --watch
-
-http://localhost:3000/
